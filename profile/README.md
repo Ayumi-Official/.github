@@ -1,4 +1,4 @@
 
 <div align="center">
-  <img src="img/Banner.png">
+  <img src="Banner.png">
 </div>
